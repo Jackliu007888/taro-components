@@ -652,10 +652,10 @@
   version "1.1.3"
   resolved "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
 
-"@tarojs/taro-h5@2.0.0-beta.12":
-  version "2.0.0-beta.12"
-  resolved "https://registry.yarnpkg.com/@tarojs/taro-h5/-/taro-h5-2.0.0-beta.12.tgz#06a64a2c1b6a558d020754b5111691ccccf26dcd"
-  integrity sha512-hMVVOGP5yySpH0BxffI0+zKcy9ML8XNzPhzoVc1Lai7G+JGycrv0pOQFW4owZBA8NmV2UTHZ2aiO+QkYk0BeSw==
+"@tarojs/taro-h5@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@tarojs/taro-h5/-/taro-h5-2.0.5.tgz#00ea704c9dde2c94eda11c66b1b633d162e43c51"
+  integrity sha512-o0UXRZLvOAtieVAysFOqrfy99Yz1VW3vDw7ljIDXx0M/8UOknowrBPkoyUCHT7I/RUIvmeqR6Ao5q4gO+LqatA==
   dependencies:
     base64-js "^1.3.0"
     jsonp-retry "^1.0.3"
@@ -1478,10 +1478,10 @@ babel-plugin-transform-strict-mode@^6.24.1:
     babel-runtime "^6.22.0"
     babel-types "^6.24.1"
 
-babel-plugin-transform-taroapi@2.0.0-beta.12:
-  version "2.0.0-beta.12"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-taroapi/-/babel-plugin-transform-taroapi-2.0.0-beta.12.tgz#03c9d7090f6248409b6be4d51eabc2d86f201c69"
-  integrity sha512-T6Ca+Kr8YN7VxI3MQImD1ueRahWNqnlGINpGUbfS7YfeHNZF9LH/YLjvirdDN7H72Vj7N/aP/KBlxBMyhf9Uzg==
+babel-plugin-transform-taroapi@2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-taroapi/-/babel-plugin-transform-taroapi-2.0.5.tgz#4e83072650729dfbf16d9cd7c4bb56bcb2f32e66"
+  integrity sha512-IaUsHOgdolMyAqIc5xn+kygObg/k27kSvEj8fNnRWSUsNPHlBUmZcZAkSXsTEuqCW/CdtioSLauCkP3eymLP+g==
 
 babel-preset-es2015@^6.24.1, babel-preset-es2015@^6.9.0:
   version "6.24.1"
@@ -2337,12 +2337,6 @@ debug@2.6.9, debug@^2.0.0, debug@^2.1.0, debug@^2.1.2, debug@^2.2.0, debug@^2.3.
   dependencies:
     ms "2.0.0"
 
-debug@=3.1.0:
-  version "3.1.0"
-  resolved "https://registry.npmjs.org/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
-  dependencies:
-    ms "2.0.0"
-
 debug@^3.1.0, debug@^3.2.5:
   version "3.2.6"
   resolved "https://registry.npmjs.org/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
@@ -3137,10 +3131,9 @@ flow-parser@^0.*:
   resolved "https://registry.npmjs.org/flow-parser/-/flow-parser-0.89.0.tgz#c87bf45831644733dd576983ab12e75a3546573b"
 
 follow-redirects@^1.0.0:
-  version "1.6.1"
-  resolved "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.6.1.tgz#514973c44b5757368bad8bddfe52f81f015c94cb"
-  dependencies:
-    debug "=3.1.0"
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
